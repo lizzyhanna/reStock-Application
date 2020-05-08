@@ -1,0 +1,16 @@
+button{
+    color: #50E3C2;
+}
+
+.btn-primary{
+    background-color: #50E3C2 !important;
+    border-color: #50E3C2 !important;
+}
+
+button{
+    margin-bottom: .5rem !important;
+}
+
+img{
+    width: 100%;
+}
