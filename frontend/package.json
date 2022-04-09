@@ -10,7 +10,7 @@
     "bootstrap": "^4.4.1",
     "jquery": "^3.4.1",
     "mdbootstrap": "^4.17.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "popper.js": "^1.16.1",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
